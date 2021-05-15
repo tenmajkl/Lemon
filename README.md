@@ -1,5 +1,7 @@
 # Lemon
 
+# Repository moved to https://github.com/Lemon-Framework/Lemon
+
 Lemon is php micro framework built for simple applications.\
 Latest version: 1.3.3\
 Documentation: https://tenmajkl.github.io/docs.html
